@@ -1,0 +1,12 @@
+- Une commande qui permet de connaître combien d'invitations qu'un membre a fait (le nombre d'invitations total, combien sont partis, combien sont encore sur le serveur)
+✅ 
+- Un message automatique dans un salon prédéfini qui envoie à chaque fois que quelqu'un rejoint pour savoir qui l'a invité
+✅ 
+Un module bump:
+- Une commande qui permet de connaître le nombre de bumps qu'un membre a effectué dans le serveur. (Total + durant la semaine courante (du lundi au dimanche)
+✅ 
+- Une commande pour faire un classement des membres qui ont fait le plus de bumps (Total + Affichage des meilleurs bumpeurs de la semaine dernière)
+✅ 
+- Une commande pour ping un rôle toutes les 2 heures
+
+- une commande pour enregistrer un rôle
